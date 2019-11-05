@@ -1,0 +1,2 @@
+palindromePerm: palindromePermutation.java
+	javac palindromePermutation.java
